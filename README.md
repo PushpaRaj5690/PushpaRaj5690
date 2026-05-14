@@ -22,7 +22,7 @@ pushpendra = {
     "name"       : "Pushpendra Verma",
     "username"   : "PushpaRaj5690",
     "location"   : "Jaipur, Rajasthan 🏯",
-    "education"  : "B.Tech / BCA — AI & Data Science",
+    "education"  : "B.Tech — AI & Data Science",
     "interests"  : ["Machine Learning", "Deep Learning", "NLP", "Data Analytics"],
     "looking_for": "🎯 Internship in AI / Data Science (2025–26)",
     "fun_fact"   : "I believe data has a story — I just help it speak 📊"
