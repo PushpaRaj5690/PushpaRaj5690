@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pushpendra%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Jaipur%2C%20Rajasthan&descAlignY=55&descSize=18" />
-
+# Hi there, I'm Pushpendra Verma 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E96F7&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Data+Science+Enthusiast;🐍+Python+%7C+ML+%7C+Deep+Learning;📊+Turning+Data+into+Insights;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
 <br/>
